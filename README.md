@@ -106,5 +106,3 @@ This project is intended for educational purposes and to show interest in ML for
 License
 MIT License
 
-yaml
-Copy code
